@@ -1,26 +1,37 @@
 # HI there 
+<img alt="GIF" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = 200/>
 <h1 align="center">Hi 👋, I'm Sanduni Vandana</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate software engineer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandunivandana&label=Profile%20views&color=0e75b6&style=flat" alt="sandunivandana" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandunivandana" alt="sandunivandana" /></a> </p>
 
-- 🌱 I’m currently learning **web developmet,java,**
+## <picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture> **About me**
+
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+ <p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+</p>
+
+
+- 🌱 I’m currently learning **web developmet,java,sololearn**
 
 - 📫 How to reach me **svfernando11@gmail.com**
 
-- ⚡ Fun fact **Sanduni**
+- ⚡ Fun fact **call me Sanduni**
 
--  ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+-  ![Sanduni_Vandana github stats](https://github-readme-stats.vercel.app/api?username=SanduniVandana&show_icons=true&theme=tokyonight) | ![Sanduni GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SanduniVandana&theme=tokyonight) |
+
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SanduniVandana&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SanduniVandana&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sanduni vandana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanduni vandana" height="30" width="40" /></a>
-<a href="https://fb.com/sandu fernando" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandu fernando" height="30" width="40" /></a>
-<a href="https://instagram.com/sandu_vandana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandu_vandana" height="30" width="40" /></a>
+<p>
+<a href="https://github.com/SanduniVandana"><img src="https://img.shields.io/badge/SanduniVandana-black?logo=github&style=flat-square"/></a>
+<a href="https://www.linkedin.com/in/Sanduni vandana/"><img src="https://img.shields.io/badge/Sandunivandana-blue?logo=linkedin&style=flat-square"></a>
+<a href="https://instagram.com/sandu_vandana><img src="https://img.shields.io/badge/sandu_vandana-pink?logo=instagram&style=flat-square"/></a>
+<a href="mailto:svfernando11@gmail.com"><img src="https://img.shields.io/badge/svfernando11@gmail.com-black?logo=gmail&style=flat-square"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
